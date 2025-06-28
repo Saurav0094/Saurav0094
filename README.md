@@ -19,7 +19,6 @@
 |--------|------------|-------------|
 | Fingerprint Attendance System | Java, MySQL, Arduino | Biometric-based scalable attendance tracker |
 | Object Recognition | YOLO, Rust, Java | Real-time object detection in video streams |
-| Web Design | HTML, CSS, JS | NSDC certified responsive website projects |
 
 ---
 
