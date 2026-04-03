@@ -8,9 +8,8 @@
 - ⚡ Fun fact: I love exploring Rust and low-level optimizations!
 
 📫 How to reach me:
-- ✉️ saurav1234king@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/saurav-yadav-124293228/)
-- 🌐 [LeetCode](https://leetcode.com/u/saurav/) | 
+- ✉️ sauravyadavk7@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/saurav-yadav-124293228/) | 
 
 ---
 
