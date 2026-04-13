@@ -38,11 +38,11 @@
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav0094&theme=default" alt="saurav0094" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav0094&theme=default&v=2" alt="saurav0094" /></p>
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurav0094&theme=default" alt="saurav0094" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurav0094&theme=default&v=2" alt="saurav0094" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saurav0094&theme=default" alt="saurav0094" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saurav0094&theme=default&v=2" alt="saurav0094" /></p>
 
 <br/><br/>
 
