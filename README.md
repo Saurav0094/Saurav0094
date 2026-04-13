@@ -38,8 +38,12 @@
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav0094&layout=compact&langs_count=8&hide_border=true&count_private=true" alt="saurav0094" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav0094&theme=default" alt="saurav0094" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav0094&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="saurav0094" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurav0094&theme=default" alt="saurav0094" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saurav0094&theme=default" alt="saurav0094" /></p>
+
+<br/><br/>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=saurav0094" alt="saurav0094" /></p>
